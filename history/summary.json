@@ -91,22 +91,22 @@
   },
   {
     "name": "Telegram Alert Test",
-    "url": "https://google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
+    "url": "https://google.invalid",
+    "icon": "https://icons.duckduckgo.com/ip3/google.invalid.ico",
     "slug": "telegram-alert-test",
-    "status": "up",
-    "uptime": "1.20%",
-    "uptimeDay": "1.20%",
-    "uptimeWeek": "1.20%",
-    "uptimeMonth": "1.20%",
-    "uptimeYear": "1.20%",
+    "status": "down",
+    "uptime": "87.51%",
+    "uptimeDay": "87.51%",
+    "uptimeWeek": "87.51%",
+    "uptimeMonth": "87.51%",
+    "uptimeYear": "87.51%",
     "time": 164,
     "timeDay": 164,
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2026-01-14": 10
+      "2026-01-14": 11
     }
   }
 ]
