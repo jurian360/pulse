@@ -13,6 +13,8 @@ sites:
     url: https://edge-gw.onadept.com/p4
   - name: p5
     url: https://edge-gw.onadept.com/p5
+  - name: Telegram Alert Test
+    url: https://example.invalid
 
 
 status-website:
